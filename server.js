@@ -6,7 +6,7 @@ const app = express();
 // PARAMS TYPES
 //=== 1- BODY PARAMS
 // req.body
-
+//==========
 // === 2- PATH PARAMS
 // req.params
 
